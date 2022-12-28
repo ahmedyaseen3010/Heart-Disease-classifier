@@ -1,5 +1,5 @@
 <h1> Heart-Disease-classifier</h1>
-<h3> This is a machine learning project to apply logistic regression. </h3>
+<h3> Machine Learning Project using Logistic Regression to Predict the Presence of a Heart Disease</h3>
 <h4>tools</h4>
 <ul>
  <li>
