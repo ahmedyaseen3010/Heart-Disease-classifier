@@ -9,10 +9,8 @@
      <li>pandas</li>
      <li>sklearn</li>
      <li>flask</li>
+     <li>seaborn</li>
     </ul>
- </li>
- <li>
-   flask
  </li>
  <li>
    HTML
